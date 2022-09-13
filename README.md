@@ -1,5 +1,5 @@
 # See-It Visualizer
-###Summary
+## Summary
 **See-It** is a visualizer that converts users data to charts. 
 Users sign-up to the application and then login.
 The users information is stored in the database.
@@ -14,10 +14,9 @@ You can create 3 types of charts with **See-It** App.
 3. Pie Chart
 
 
-###Installation of Required Packages
-    'pip install -r requirements.txt'
+## Installation of Required Packages
 **requirements.txt** file includes all the required library.
-You can download all packages with this shell script after downloading requirements.txt file.
+You can download all packages with this `pip install -r requirements.txt` shell script after downloading requirements.txt file.
 
 Required Libraries:
 1. **_Numpy_**
@@ -26,7 +25,7 @@ Required Libraries:
 4. **_Tkinter_**
 
 
-### How to Run the Application
+## How to Run the Application
 Firstly you need to install required packages.
 Then you can run the python script `See-It.py` on any IDE.
 You will see a sign up window. If you have already an account you can click to the login button.
