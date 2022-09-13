@@ -15,7 +15,7 @@ You can create 3 types of charts with **See-It** App.
 
 
 ###Installation of Required Packages
-    pip install -r requirements.txt
+    'pip install -r requirements.txt'
 **requirements.txt** file includes all the required library.
 You can download all packages with this shell script after downloading requirements.txt file.
 
